@@ -1,0 +1,45 @@
+<?xml version="1.0"?>  
+<data>
+	<location> <!-- N232 SCHIPHOL -->
+		<speed>70</speed>
+		<heading>45</heading>
+		<latitude>52.286999</latitude>
+		<longitude>4.781885</longitude>	
+		<gps_quality>7</gps_quality>	
+	</location>
+	<location>  <!-- N232 SCHIPHOL -->
+		<speed>70</speed>
+		<heading>45</heading>
+		<latitude>52.288476</latitude>
+		<longitude>4.784976</longitude>	
+		<gps_quality>7</gps_quality>	
+	</location>
+	<location> <!-- A2 NIEUWEGEIN -->
+		<speed>80</speed>
+		<heading>25</heading>
+		<latitude>51.730997</latitude>
+		<longitude>4.632434</longitude>	
+		<gps_quality>7</gps_quality>	
+	</location>
+	<location> <!-- A2 NIEUWEGEIN -->
+		<speed>80</speed>
+		<heading>15</heading>
+		<latitude>51.752995</latitude>
+		<longitude>4.642748</longitude>	
+		<gps_quality>7</gps_quality>	
+	</location>
+	<location> <!-- A2 NIEUWEGEIN -->
+		<speed>80</speed>
+		<heading>25</heading>
+		<latitude>51.994565</latitude>
+		<longitude>5.112091</longitude>	
+		<gps_quality>7</gps_quality>	
+	</location>
+	<location> <!-- A2 NIEUWEGEIN -->
+		<speed>80</speed>
+		<heading>25</heading>
+		<latitude>51.999268</latitude>
+		<longitude>5.113722</longitude>	
+		<gps_quality>7</gps_quality>	
+	</location>
+</data>

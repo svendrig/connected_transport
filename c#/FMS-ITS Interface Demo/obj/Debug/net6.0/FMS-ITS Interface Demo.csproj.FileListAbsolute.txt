@@ -1,0 +1,17 @@
+C:\Users\SanderVendrig\source\repos\FMS-ITS Interface Demo\bin\Debug\net6.0\FMS-ITS Interface Demo.exe
+C:\Users\SanderVendrig\source\repos\FMS-ITS Interface Demo\bin\Debug\net6.0\FMS-ITS Interface Demo.deps.json
+C:\Users\SanderVendrig\source\repos\FMS-ITS Interface Demo\bin\Debug\net6.0\FMS-ITS Interface Demo.runtimeconfig.json
+C:\Users\SanderVendrig\source\repos\FMS-ITS Interface Demo\bin\Debug\net6.0\FMS-ITS Interface Demo.dll
+C:\Users\SanderVendrig\source\repos\FMS-ITS Interface Demo\bin\Debug\net6.0\FMS-ITS Interface Demo.pdb
+C:\Users\SanderVendrig\source\repos\FMS-ITS Interface Demo\obj\Debug\net6.0\FMS-ITS Interface Demo.csproj.AssemblyReference.cache
+C:\Users\SanderVendrig\source\repos\FMS-ITS Interface Demo\obj\Debug\net6.0\FMS-ITS Interface Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SanderVendrig\source\repos\FMS-ITS Interface Demo\obj\Debug\net6.0\FMS-ITS Interface Demo.AssemblyInfoInputs.cache
+C:\Users\SanderVendrig\source\repos\FMS-ITS Interface Demo\obj\Debug\net6.0\FMS-ITS Interface Demo.AssemblyInfo.cs
+C:\Users\SanderVendrig\source\repos\FMS-ITS Interface Demo\obj\Debug\net6.0\FMS-ITS Interface Demo.csproj.CoreCompileInputs.cache
+C:\Users\SanderVendrig\source\repos\FMS-ITS Interface Demo\obj\Debug\net6.0\FMS-ITS Interface Demo.dll
+C:\Users\SanderVendrig\source\repos\FMS-ITS Interface Demo\obj\Debug\net6.0\refint\FMS-ITS Interface Demo.dll
+C:\Users\SanderVendrig\source\repos\FMS-ITS Interface Demo\obj\Debug\net6.0\FMS-ITS Interface Demo.pdb
+C:\Users\SanderVendrig\source\repos\FMS-ITS Interface Demo\obj\Debug\net6.0\FMS-ITS Interface Demo.genruntimeconfig.cache
+C:\Users\SanderVendrig\source\repos\FMS-ITS Interface Demo\obj\Debug\net6.0\ref\FMS-ITS Interface Demo.dll
+C:\Users\SanderVendrig\source\repos\FMS-ITS Interface Demo\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\SanderVendrig\source\repos\FMS-ITS Interface Demo\obj\Debug\net6.0\FMS-ITS Interface Demo.csproj.CopyComplete

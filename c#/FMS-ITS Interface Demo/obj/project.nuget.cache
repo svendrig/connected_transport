@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x94E/WwSoe3dXD7TYRiX7eTEMsuvExdrvqQ9Yhp+HNF1caJH+N4speTw9fc7rmyn8wnZoacmB7/oIfwpxWEmgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SanderVendrig\\source\\repos\\FMS-ITS Interface Demo\\FMS-ITS Interface Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SanderVendrig\\.nuget\\packages\\google.protobuf\\3.25.3\\google.protobuf.3.25.3.nupkg.sha512"
+  ],
+  "logs": []
+}

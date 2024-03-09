@@ -1,0 +1,1 @@
+java -cp .;lib/jackson-annotations-2.3.1.jar;lib/jackson-core-2.3.1.jar;lib/jackson-databind-2.3.1.jar;lib/java-android-websocket-client-2.0.2.jar;lib/protobuf-java-3.25.3.jar demo/Main

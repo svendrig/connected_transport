@@ -1,0 +1,14 @@
+<?xml version="1.0"?>  
+<demo_settings>
+	<rest>
+		<name></name>
+		<secret></secret>
+		<type>application/json</type>
+		<endpoint></endpoint>
+	</rest>
+	<ws>
+		<name></name>
+		<secret></secret>
+		<endpoint></endpoint>
+	</ws>
+</demo_settings>

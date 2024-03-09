@@ -1,0 +1,9 @@
+<?xml version="1.0"?>  
+<data>
+	<vehicle>
+		<name>demotruck</name>
+		<licenseplate>AA123BB</licenseplate>
+		<vehicletype>boxtruck</vehicletype>
+		<fuel>diesel</fuel>
+	</vehicle>
+</data>
